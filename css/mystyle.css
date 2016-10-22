@@ -14,14 +14,21 @@ a{
 
 #section-0{
     border-bottom: solid thin blue;
+
 }
 
 img, #anchors{
     display: none;
+
 }
 
 #canvas{
     background-color: #333637;
+}
+
+.date-place{
+    color: white;
+    font-weight: bold;
 }
 
 
