@@ -14,7 +14,13 @@ a{
 
 #section-0{
     border-bottom: solid thin blue;
+    background-color: #0f0f0f;
 
+}
+
+#section-5{
+    background-color: #0f0f0f;
+    border-top: solid thin blue;
 }
 
 #profile,#logo-ecetech,#logo-systra, #anchors{
