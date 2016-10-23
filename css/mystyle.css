@@ -37,6 +37,10 @@ img, #anchors{
     img, #anchors{
         display: initial;
     }
+
+    p {
+        font-size: 1.2em;
+    }
 }
 
 
